@@ -1,1 +1,1 @@
-web: aplicación gunicorn: app
+web: python dealscraper/app.py
